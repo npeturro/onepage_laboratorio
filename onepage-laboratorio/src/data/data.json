@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Laboratorio de Análisis Clínicos",
+    "paragraph": "Desde más de 10 años brindando confianza a nuestros clientes"
+  },
+  "About": {
+    "paragraph": "Donde la excelencia en el análisis clínico se encuentra con el cuidado de la salud, nos dedicamos a proporcionar servicios de laboratorio de última generación con un enfoque centrado en el paciente. En el corazón de nuestra misión está la precisión, la accesibilidad y el compromiso con el bienestar de nuestros clientes.",
+    "Why": [
+      "Precisión",
+      "Compromiso con el paciente",
+      "Tecnología",
+      "Profesionales altamente calificados"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Osde",
+      "largeImage": "img/portfolio/osde_logo.jpg",
+      "smallImage": "img/portfolio/osde_logo.jpg"
+    },
+    {
+      "title": "Pami",
+      "largeImage": "img/portfolio/pami_logo.jpg",
+      "smallImage": "img/portfolio/pami_logo.jpg"
+    },
+    {
+      "title": "Mutualyf",
+      "largeImage": "img/portfolio/mutualyf_logo.jpg",
+      "smallImage": "img/portfolio/mutualyf_logo.jpg"
+    },
+    {
+      "title": "Iapos",
+      "largeImage": "img/portfolio/iapos_logo.jpg",
+      "smallImage": "img/portfolio/iapos_logo.jpg"
+    },
+    {
+      "title": "Galeno",
+      "largeImage": "img/portfolio/galeno_logo.jpg",
+      "smallImage": "img/portfolio/galeno_logo.jpg"
+    },
+    {
+      "title": "Swiss Medical",
+      "largeImage": "img/portfolio/swiss_logo.jpg",
+      "smallImage": "img/portfolio/swiss_logo.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Controles de rutina",
+      "text": "Se centran en prevenir enfermedades en lugar de tratar un síntoma activo o una enfermedad ya diagnosticada."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Test de embarazo",
+      "text": "Una forma fácil y precisa de saber si estás en embarazo."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Hemograma",
+      "text": "Para examinar el estado general de salud y detectar una amplia variedad de afecciones, como anemia, una infección y leucemia."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Glicemia",
+      "text": "Para medir la cantidad de glucosa o azúcar en la sangre."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Uremia",
+      "text": "Para analizar el funcionamiento renal."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Colesterol",
+      "text": "Sustancia cerosa y parecida a la grasa que se encuentra en todas las células de su cuerpo."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Crespo 4427, Barrio Acindar, Rosario, Santa Fe, Argentina ",
+    "phone": "341 - 4655342",
+    "horario": "Lunes a Sábados de 08:00 a 11:30 hs",
+    "info": "Exclusivamente con turnos previos",
+    "maps": "https://maps.app.goo.gl/M3dotmtrYv1XujNy5",
+    "whatsapp": "https://api.whatsapp.com/send?phone=3415478407"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
